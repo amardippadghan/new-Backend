@@ -1,0 +1,55 @@
+const employees = [
+  {
+    id: 1,
+    name: "John Doe",
+    email: "john.doe@example.com",
+    number: "123-456-7890",
+    address: "123 Main Street, Cityville",
+    gender: "Male",
+    salary: 60000,
+    birthdate: "1990-05-15",
+  },
+  {
+    id: 2,
+    name: "Jane Smith",
+    email: "jane.smith@example.com",
+    number: "987-654-3210",
+    address: "456 Oak Avenue, Townsville",
+    gender: "Female",
+    salary: 70000,
+    birthdate: "1985-08-22",
+  },
+  {
+    id: 3,
+    name: "Bob Johnson",
+    email: "bob.johnson@example.com",
+    number: "555-123-4567",
+    address: "789 Pine Road, Villageland",
+    gender: "Male",
+    salary: 80000,
+    birthdate: "1982-03-10",
+  },
+  {
+    id: 4,
+    name: "Emily Davis",
+    email: "emily.davis@example.com",
+    number: "333-555-7777",
+    address: "321 Elm Street, Hamletville",
+    gender: "Female",
+    salary: 75000,
+    birthdate: "1995-12-05",
+  },
+  {
+    id: 5,
+    name: "Alex Rodriguez",
+    email: "alex.rodriguez@example.com",
+    number: "111-222-3333",
+    address: "555 Maple Avenue, Citytown",
+    gender: "Male",
+    salary: 90000,
+    birthdate: "1988-07-18",
+  },
+  // Add more objects as needed
+];
+
+module.exports = employees;
